@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: popolnenie-cherez-kartu-mir.github.io
+Sitemap: https://popolnenie-cherez-kartu-mir.github.io/sitemap.xml
